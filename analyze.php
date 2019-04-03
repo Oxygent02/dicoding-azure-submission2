@@ -14,7 +14,7 @@ if (isset($_POST['submit'])) {
 <html>
 <head>
   <title>Azure Submission 2 - Analyze</title>
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+  <script src="./jquery.min.js"></script>
 	<style type="text/css">
 		body { background-color: #fff; border-top: solid 10px #000;
 		    color: #333; font-size: .85em; margin: 20; padding: 20;
